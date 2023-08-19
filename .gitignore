@@ -1,0 +1,4 @@
+/node_modules
+/exercicios
+.env
+.package-lock.json
